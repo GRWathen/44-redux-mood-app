@@ -1,0 +1,15 @@
+#moodChanger {
+    text-align: center;
+}
+
+#title {
+    background-color: lightblue;
+}
+
+#emoji {
+    margin: 1em;
+}
+
+button {
+    margin: 1px;
+}
